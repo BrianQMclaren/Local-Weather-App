@@ -1,0 +1,14 @@
+.container {
+  padding: 100px;
+
+}
+
+ul li {
+  list-style: none;
+  
+}
+
+li {
+  display: inline-block;
+}
+
