@@ -33,6 +33,8 @@ $(document).ready(function(){
         $("#windSpeed").html(windSpeed + " mph");
 
 
+
+
         var tempSwap = true;
          $("#temp").click(function(){
         if (tempSwap===false) {

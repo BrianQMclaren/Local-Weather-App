@@ -3,12 +3,12 @@ html {
 }
 body {
   background-size: cover;
-  background-position: top left;
+  background-position: center;
   background-repeat: no-repeat;
 
 }
 .container {
-  padding: 100px;
+  padding: 175px 50px;
 }
 h1 {
   color: white;

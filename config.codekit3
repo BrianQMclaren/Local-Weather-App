@@ -9,6 +9,22 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/config_resources\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/config_resources\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/config_resources\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/config_resources\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/img\/clear.jpg": {
 		"ft": 16384,
 		"iS": 1408067,
